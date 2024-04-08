@@ -1,14 +1,15 @@
-
-
-
 /* Reset de margens e preenchimentos */
-body, h1, h2, p, ul {
+body,
+h1,
+h2,
+p,
+ul {
     margin: 0;
     padding: 0;
     text-align: center;
     color: #FF5020;
-   
-    
+
+
 }
 
 /* Definindo a fonte */
@@ -22,14 +23,14 @@ header {
     color: #fff;
     padding: 20px;
     text-align: center;
-    
+
 }
 
 /* Estilos para a navegação */
 nav {
     background-color: #1B1B1C;
     padding: 10px;
-  
+
 }
 
 nav ul {
@@ -48,7 +49,7 @@ nav ul li {
 nav ul li a {
     color: #fff;
     text-decoration: none;
-    
+
 }
 
 /* Estilos para a seção principal */
